@@ -4,14 +4,13 @@ export default function Home() {
   return (
     <main style={{ textAlign: "center", padding: "20px" }}>
       <h1>Bienvenue sur Nexul 🚀</h1>
-      <p>Accédez au site directement en cliquant ci-dessous :</p>
+      <p>Accédez au tableau de bord :</p>
+
       <a
-        href="https://projetnexul.vercel.app"
-        target="_blank"
-        rel="noopener noreferrer"
+        href="/dashboard"
         style={{ color: "blue", textDecoration: "underline" }}
       >
-        👉 Cliquez ici pour accéder au site
+        👉 Aller au tableau de bord
       </a>
     </main>
   );
