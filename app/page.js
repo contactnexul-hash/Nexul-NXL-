@@ -7,7 +7,7 @@ export default function Home() {
     <main style={{ textAlign: "center", padding: "20px" }}>
       <h1>Bienvenue sur Nexul 🚀</h1>
       <p>Scannez ce QR Code pour accéder au site sur mobile :</p>
-      
+
       <Image
         src="/qr-projetnexul.png"
         width={250}
