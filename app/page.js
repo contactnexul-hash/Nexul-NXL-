@@ -20,9 +20,10 @@ export default function Home() {
       <a
         href="https://projetnexul.vercel.app"
         target="_blank"
+        rel="noopener noreferrer"
         style={{ color: "blue", textDecoration: "underline" }}
       >
-        ➜ Cliquez ici pour accéder directement au site
+        Cliquez ici pour accéder directement au site
       </a>
     </main>
   );
