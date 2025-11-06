@@ -22,7 +22,7 @@ export default function Home() {
         target="_blank"
         style={{ color: "blue", textDecoration: "underline" }}
       >
-        ➜ Ou cliquez ici pour accéder directement au site
+        ➜ Cliquez ici pour accéder directement au site
       </a>
     </main>
   );
