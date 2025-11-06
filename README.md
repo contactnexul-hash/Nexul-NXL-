@@ -20,3 +20,5 @@ Contenu:
 - Page d'accueil (vitrine) : `app/page.js` -> component `NexulVitrine`
 - Dashboard connecté (wallet) : `/dashboard` -> component `FullDashboard`
 - Tailwind configuré, i18next minimal inclus.
+🌐 Site en ligne : https://projetnexul.vercel.app
+[👉 Accéder au site Nexul](https://projetnexul.vercel.app)
