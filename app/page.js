@@ -23,7 +23,7 @@ export default function Home() {
         rel="noopener noreferrer"
         style={{ color: "blue", textDecoration: "underline" }}
       >
-        ?? Cliquez ici pour accéder directement au site
+        Cliquez ici pour accéder directement au site
       </a>
     </main>
   );
